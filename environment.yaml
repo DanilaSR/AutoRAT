@@ -1,0 +1,9 @@
+name: AutoRAT
+channels:
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - matplotlib
+  - cython
