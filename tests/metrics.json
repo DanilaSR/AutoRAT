@@ -1,0 +1,30 @@
+{
+    "theor": {
+        "azimuth_irw": 0.5001277099380436,
+        "range_irw": 0.22084711072666668
+    },
+    "0": {
+        "azimuth_irw": 0.496,
+        "azimuth_pslr_db": -16.43,
+        "azimuth_islr_db": -14.92,
+        "range_irw": 0.224,
+        "range_pslr_db": -13.41,
+        "range_islr_db": -10.55
+    },
+    "1": {
+        "azimuth_irw": 0.488,
+        "azimuth_pslr_db": -17.67,
+        "azimuth_islr_db": -15.27,
+        "range_irw": 0.223,
+        "range_pslr_db": -12.89,
+        "range_islr_db": -10.28
+    },
+    "2": {
+        "azimuth_irw": 0.488,
+        "azimuth_pslr_db": -17.69,
+        "azimuth_islr_db": -15.29,
+        "range_irw": 0.224,
+        "range_pslr_db": -12.39,
+        "range_islr_db": -10.08
+    }
+}
